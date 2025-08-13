@@ -11,7 +11,7 @@
 ### 🤓 About Me:
 - 🌱 Currently learning: **iOS development**.
 - 💬 Ask me about: **iOS development**, **Clean Code**, **Design Patterns**, and **Flutter development**.
-- ⚡ Fun fact: **1 + 1 = 10** (in binary 😄).
+- ⚡ Every great app starts with one line of code. Let this be yours.
 - 📫 How to reach me:
   - <img src="https://img.icons8.com/color/48/000000/email.png" width="20px"/> **Email**: abdullayevkamal994@gmail.com  
   - <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="20px"/> **Instagram**: [Kamal Abdullayev](https://www.instagram.com/kamal.abdllyev/)  

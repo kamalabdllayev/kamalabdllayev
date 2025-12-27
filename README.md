@@ -56,7 +56,7 @@
     </td>
     <td align="right" width="50%">
       <a href="https://github.com/kamalabdllayev" title="Profile Views">
-        <img src="https://komarev.com/ghpvc/?username=KamalAbdullayev0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views for KamalAbdullayev0"/>
+        <img src="https://komarev.com/ghpvc/?username=kamalabdllayev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views for kamalabdllayev"/>
       </a>
     </td>
   </tr>
@@ -67,13 +67,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/KamalAbdullayev0">
+      <a href="https://github.com/kamalabdllayev">
         <img src="https://github-readme-stats.vercel.app/api?username=kamalabdllayev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Kamal Abdullayev's GitHub Stats" width="100%"/>
         <!-- hide_rank=true hides the 'C' grade. Remove if you want to show it. -->
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/KamalAbdullayev0">
+      <a href="https://github.com/kamalabdllayev">
         <!-- Removed layout=compact to make it potentially wider and match stats card better -->
         <!-- Increased langs_count to potentially fill space, adjust as needed -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalabdllayev&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Kamal Abdullayev's Top Languages" width="100%"/>
